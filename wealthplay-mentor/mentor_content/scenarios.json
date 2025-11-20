@@ -1,0 +1,110 @@
+[
+  {
+    "id": "first_salary_50k",
+    "title": "First Salary: ₹50,000",
+    "story": "You just received your first salary and feel excited but confused about saving and spending.",
+    "recommended_steps": [
+      "Save 20% as emergency",
+      "Start SIP: 20%",
+      "Budget Fun Money: 15%",
+      "Essentials: 45%"
+    ],
+    "emotion": "excited + nervous"
+  },
+  {
+    "id": "unexpected_medical_bill",
+    "title": "Sudden Medical Expense",
+    "story": "Your family needs ₹8,000 quickly. You don’t want to break an investment.",
+    "key_learning": "Emergency fund protects long-term investments."
+  },
+  {
+    "id": "festival_over_spend",
+    "title": "Overspent During Festival",
+    "story": "After Diwali shopping, you overspent and feel guilty.",
+    "lesson": "Budgeting + reflection"
+  },
+  {
+  "id": "budget_after_rent",
+  "title": "Salary Left After Rent",
+  "story": "After paying rent and essentials, you only have ₹6,000 leftover.",
+  "learning": "Prioritization and realistic investing."
+},
+{
+  "id": "panic_market_crash",
+  "title": "Market Crash Alert",
+  "story": "You see news headlines saying 'MARKET DOWN 10%'.",
+  "emotion": "fear",
+  "message": "This is normal. Stick to the plan."
+},
+{
+  "id": "friend_investing_fomo",
+  "title": "Friends Making Money",
+  "story": "Everyone in your office invested in a trending stock and doubled money.",
+  "emotion": "FOMO",
+  "lesson": "Comparison kills strategy."
+},
+{
+  "id": "unexpected_bonus",
+  "title": "Year-End Bonus",
+  "story": "You received ₹30,000 bonus unexpectedly.",
+  "choices": ["Spend all", "Invest all", "Split smartly"],
+  "best_learning": "Windfall planning"
+},
+{
+  "id": "fear_of_first_investment",
+  "title": "First Investment Fear",
+  "emotion": "uncertainty",
+  "story": "You feel scared pressing the 'invest' button.",
+  "learning": "Normalizing risk"
+},
+{
+  "id": "peer_pressure",
+  "title": "Friends Made 3x in Crypto",
+  "emotion": "FOMO",
+  "story": "A friend says you're missing out if you don't buy now.",
+  "learning": "Critical thinking"
+},
+{
+  "id": "failed_investment",
+  "title": "First Loss",
+  "emotion": "sadness",
+  "story": "Investment is down -5%.",
+  "learning": "Long-term mindset"
+},
+{
+  "id": "loan_vs_investment",
+  "title": "Loan Priority",
+  "story": "You have a credit card bill and still want to invest.",
+  "lesson": "Debt comes first."
+},
+{
+  "id": "impulse_shopping",
+  "title": "Online Sale Trigger",
+  "story": "You planned to invest but shopping temptation hits.",
+  "lesson": "Discipline"
+},
+{
+  "id": "parents_opinion",
+  "title": "Family Says 'Investing Is Risky'",
+  "story": "Parents discourage you.",
+  "learning": "Generational difference"
+},
+{
+  "id": "inconsistent_habit",
+  "title": "Skipping SIP",
+  "story": "Lifestyle expenses increase and SIP feels hard to continue.",
+  "solution": "Step-down or automate"
+},
+{
+  "id": "first_salary_raise",
+  "title": "Increment Upgrade",
+  "story": "You get a raise.",
+  "best_practice": "SIP Step-up"
+},
+{
+  "id": "relationship_finance",
+  "title": "Joint Financial Decisions",
+  "story": "Partner has different priorities.",
+  "lesson": "Communication and shared planning."
+}
+]
